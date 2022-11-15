@@ -1,0 +1,86 @@
+{
+	"$schema": "https://schemas.wp.org/trunk/theme.json",
+	"version": 2,
+	"settings": {
+		"typography": {
+			"fontSizes": [
+				{
+					"name": "H1",
+					"slug": "h1",
+					"size": "61px"
+				},
+				{
+					"name": "H2",
+					"slug": "h2",
+					"size": "49px"
+				},
+				{
+					"name": "H3",
+					"slug": "h3",
+					"size": "39px"
+				},
+				{
+					"name": "H4",
+					"slug": "h4",
+					"size": "31px"
+				},
+				{
+					"name": "H5",
+					"slug": "h5",
+					"size": "25px"
+				},
+				{
+					"name": "H6",
+					"slug": "h6",
+					"size": "20px"
+				},
+				{
+					"name": "p",
+					"slug": "p",
+					"size": "16px"
+				},
+				{
+					"name": "s",
+					"slug": "s",
+					"size": "10px"
+				}
+			]
+		},
+		"border": {
+			"color": true,
+			"radius": true,
+			"style": true,
+			"width": true
+	},
+		"color": {
+			"palette": [
+				{
+					"slug": "primary",
+					"color": "#5f19eb",
+					"name": "Primary"
+				},
+				{
+					"slug": "accent",
+					"color": "#fad233",
+					"name": "Accent"
+				},
+				{
+					"slug": "pale",
+					"color": "#efe8fd",
+					"name": "Pale"
+				},
+				{
+					"slug": "secondary",
+					"color": "#0022ff",
+					"name": "Secondary"
+				},
+				{
+					"slug": "tertiary",
+					"color": "#0369a1",
+					"name": "Tertiary"
+				}
+			]
+			
+		}
+	}
+}
